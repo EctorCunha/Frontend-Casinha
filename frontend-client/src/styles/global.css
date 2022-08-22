@@ -1,0 +1,16 @@
+body {
+  background-color: #f9f9f9;
+}
+
+.MuiAutocomplete-popper {
+  top: 4px !important;
+}
+
+::-webkit-scrollbar {
+  width: 12px;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #2d4c2a;
+  border-radius: 15px;
+}
